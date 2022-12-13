@@ -1,0 +1,204 @@
+C:\Users\Dar1K\Desktop\Учет квартир\Учет квартир\bin\Debug\Учет квартир.exe
+C:\Users\Dar1K\Desktop\Учет квартир\Учет квартир\bin\Debug\Учет квартир.pdb
+C:\Users\Dar1K\Desktop\Учет квартир\Учет квартир\bin\Debug\Учет квартир.xml
+C:\Users\Dar1K\Desktop\Учет квартир\Учет квартир\obj\x86\Debug\Учет_квартир.frmAbout.resources
+C:\Users\Dar1K\Desktop\Учет квартир\Учет квартир\obj\x86\Debug\Учет_квартир.frmImport.resources
+C:\Users\Dar1K\Desktop\Учет квартир\Учет квартир\obj\x86\Debug\Учет_квартир.frmLogin.resources
+C:\Users\Dar1K\Desktop\Учет квартир\Учет квартир\obj\x86\Debug\Учет_квартир.frmMain.resources
+C:\Users\Dar1K\Desktop\Учет квартир\Учет квартир\obj\x86\Debug\Учет_квартир.Resources.resources
+C:\Users\Dar1K\Desktop\Учет квартир\Учет квартир\obj\x86\Debug\WRK Program.vbproj.GenerateResource.cache
+C:\Users\Dar1K\Desktop\Учет квартир\Учет квартир\obj\x86\Debug\WRK Program.vbproj.CoreCompileInputs.cache
+C:\Users\Dar1K\Desktop\Учет квартир\Учет квартир\obj\x86\Debug\Учет квартир.exe
+C:\Users\Dar1K\Desktop\Учет квартир\Учет квартир\obj\x86\Debug\Учет квартир.xml
+C:\Users\Dar1K\Desktop\Учет квартир\Учет квартир\obj\x86\Debug\Учет квартир.pdb
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbproj.GenerateResource.cache
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\bin\Debug\WRK Program.exe
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\bin\Debug\WRK Program.pdb
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\bin\Debug\WRK Program.xml
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmAbout.resources
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmImport.resources
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmLogin.resources
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmMain.resources
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Resources.resources
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\obj\x86\Debug\WRK Program.exe
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\obj\x86\Debug\WRK Program.xml
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\obj\x86\Debug\WRK Program.pdb
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbprojResolveAssemblyReference.cache
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.List_of_unemployed.resources
+C:\Users\Dar1K\Desktop\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbproj.ResolveComReference.cache
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbproj.ResolveComReference.cache
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK Program.exe
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK Program.xml
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK Program.pdb
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbproj.ResolveComReference.cache
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK Program.exe
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK Program.xml
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK Program.pdb
+H:\WRK Program\WRK Program\bin\Debug\WRK Program.exe
+H:\WRK Program\WRK Program\bin\Debug\WRK Program.pdb
+H:\WRK Program\WRK Program\bin\Debug\WRK Program.xml
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbprojResolveAssemblyReference.cache
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmImport.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmLogin.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmMain.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.List_of_unemployed.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Resources.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbproj.GenerateResource.Cache
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Archive.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Employer.resources
+E:\WRK Program\WRK Program\bin\Debug\WRK Program.exe
+E:\WRK Program\WRK Program\bin\Debug\WRK Program.pdb
+E:\WRK Program\WRK Program\bin\Debug\WRK Program.xml
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbprojResolveAssemblyReference.cache
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Archive.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Employer.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmAbout.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmImport.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmLogin.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmMain.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.List_of_unemployed.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Resources.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbproj.GenerateResource.Cache
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddToArchive.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddToArchive.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddEmployer.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddArea.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddEmployer.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Area.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Vacancy.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddVacancy.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudyLevel.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.StudyLevel.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.StudyPlace.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudyPlace.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Study.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudy.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.PlaceOfIssue.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddPlaceOfIssue.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbproj.ResolveComReference.cache
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK Program.exe
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK Program.xml
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK Program.pdb
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\bin\Debug\WRK Program.exe
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\bin\Debug\WRK Program.pdb
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\bin\Debug\WRK Program.xml
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbprojResolveAssemblyReference.cache
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddArea.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddEmployer.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddPlaceOfIssue.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudy.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudyLevel.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudyPlace.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddUnemployed.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddVacancy.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Archive.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Area.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Employer.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmAbout.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmImport.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmLogin.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmMain.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.List_of_unemployed.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Resources.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddToArchive.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.PlaceOfIssue.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Study.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.StudyLevel.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.StudyPlace.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Vacancy.resources
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbproj.GenerateResource.Cache
+E:\Developed\Projects .NET\Сourse Work\Backup\19.06.2022\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddUser.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddUser.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddUnemployed.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Users.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddUser.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddArea.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddPlaceOfIssue.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudy.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudyLevel.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudyPlace.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddUnemployed.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddVacancy.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Area.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.PlaceOfIssue.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Study.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.StudyLevel.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.StudyPlace.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Users.resources
+E:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Vacancy.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Licence.resources
+H:\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Help.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbproj.ResolveComReference.cache
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.exe
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.xml
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.pdb
+H:\КурSOвая\WRK Program\WRK Program\bin\Debug\WRK Program.exe
+H:\КурSOвая\WRK Program\WRK Program\bin\Debug\WRK Program.pdb
+H:\КурSOвая\WRK Program\WRK Program\bin\Debug\WRK Program.xml
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbprojResolveAssemblyReference.cache
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddUser.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddArea.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddEmployer.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddPlaceOfIssue.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudy.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudyLevel.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudyPlace.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddUnemployed.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddVacancy.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Archive.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Area.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Employer.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmImport.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmLogin.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmMain.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Help.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Licence.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.List_of_unemployed.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Resources.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddToArchive.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.PlaceOfIssue.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Study.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.StudyLevel.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.StudyPlace.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Users.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Vacancy.resources
+H:\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbproj.GenerateResource.Cache
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbproj.ResolveComReference.cache
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.exe
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.xml
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.pdb
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\bin\Debug\WRK Program.exe
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\bin\Debug\WRK Program.pdb
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\bin\Debug\WRK Program.xml
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbprojResolveAssemblyReference.cache
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddUser.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddArea.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddEmployer.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddPlaceOfIssue.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudy.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudyLevel.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddStudyPlace.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddUnemployed.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddVacancy.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Archive.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Area.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Employer.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmImport.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmLogin.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.frmMain.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Help.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Licence.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.List_of_unemployed.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Resources.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.AddToArchive.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.PlaceOfIssue.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Study.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.StudyLevel.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.StudyPlace.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Users.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK_Program.Vacancy.resources
+E:\Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbproj.GenerateResource.Cache
+E:\#Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.vbproj.ResolveComReference.cache
+E:\#Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.exe
+E:\#Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.xml
+E:\#Developed\Projects .NET\Сourse Work\КурSOвая\WRK Program\WRK Program\obj\x86\Debug\WRK Program.pdb
